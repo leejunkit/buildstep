@@ -24,6 +24,7 @@ libpq-dev
 libsqlite3-dev
 libssl-dev
 libssl0.9.8
+libtag1-dev
 libxml2-dev
 libxslt-dev
 mercurial
@@ -34,6 +35,8 @@ openjdk-7-jdk
 openjdk-7-jre-headless
 openssh-client
 openssh-server
+php-pear
+php5-curl
 postgresql
 postgresql-server-dev-9.3
 python-dev
