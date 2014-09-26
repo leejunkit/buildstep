@@ -28,6 +28,8 @@ libssl0.9.8
 libtag1-dev
 libxml2-dev
 libxslt-dev
+libreadline5
+libmcrypt4
 mercurial
 mysql-client
 netcat-openbsd
