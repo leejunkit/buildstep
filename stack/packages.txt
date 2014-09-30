@@ -29,7 +29,6 @@ libtag1-dev
 libxml2-dev
 libxslt-dev
 libreadline5
-libmcrypt4
 mercurial
 mysql-client
 netcat-openbsd
@@ -41,6 +40,8 @@ openssh-server
 php-pear
 php5-curl
 postgresql
+php5-mysqlnd
+php5-mysqlnd-ms
 postgresql-server-dev-9.3
 python-dev
 ruby-dev
